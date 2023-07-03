@@ -1,6 +1,7 @@
 # ,,,,
 # Self-published geofeed as defined in RFC 8805.,,,,
 # Geofeed for SkyInfo Networks,,,,
+# AS198383 (as198383.net),,,,
 # Last Updated: 2023-06-21 00:37 GMT+5:30,,,,
 # ,,,,
 # prefix,country_code,region_code,city,
@@ -18,3 +19,5 @@
 2a05:dfc1:4b11::/48,SG,SG-01,Singapore,
 2a05:dfc1:4b12::/48,US,US-WA,Seattle,
 2a05:dfc1:4b13::/48,CA,CA-BC,Vancouver,
+2a05:dfc1:4b14::/48,NL,NL-NH,Haarlem,
+2a05:dfc1:4b15::/48,UA,UA-30,Kyiv,
