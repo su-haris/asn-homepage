@@ -6,7 +6,7 @@
 # ,,,,
 # prefix,country_code,region_code,city,
 2a05:dfc1:4b01::/48,DE,DE-HE,Frankfurt,
-2a05:dfc1:4b02::/48,GB,US-CA,San Jose,
+2a05:dfc1:4b02::/48,US,US-CA,San Jose,
 2a0e:b107:13d3::/48,GB,GB-ENG,Redditch,
 2a05:dfc1:4b03::/48,US,US-GA,Atlanta,
 2a05:dfc1:4b04::/48,US,US-CA,San Fransico,
