@@ -2,7 +2,7 @@
 # Self-published geofeed as defined in RFC 8805.,,,,
 # Geofeed for SkyInfo Networks,,,,
 # AS198383 (as198383.net),,,,
-# Last Updated: 2023-10-09 20:37 GMT+5:30,,,,
+# Last Updated: 2024-01-15 23:52 GMT+5:30,,,,
 # ,,,,
 # prefix,country_code,region_code,city,
 2a05:dfc1:4b01::/48,DE,DE-HE,Frankfurt,
@@ -34,3 +34,4 @@
 2a05:dfc1:4b25::/48,NL,NL-NH,Amsterdam,
 2a05:dfc1:4b26::/48,US,US-WA,Liberty Lake,
 2a05:dfc1:4b27::/48,US,US-WA,Spokane,
+2a05:dfc1:4b28::/48,DE,DE-HE,Frankfurt,
